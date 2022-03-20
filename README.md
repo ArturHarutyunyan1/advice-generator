@@ -31,7 +31,7 @@ This is a solution to the [Advice generator app challenge on Frontend Mentor](ht
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- JavaScript
+- Vue
 
 ### Useful resources
 
