@@ -1,9 +1,14 @@
 <template>
-  <advice-generator></advice-generator>
+  <AdviceGenerator />  
 </template>
 
-<script setup>
-  import AdviceGenerator from './components/AdviceGenerator.vue'
+<script>
+import AdviceGenerator from './components/AdviceGenerator.vue'
+export default {
+  components:{
+    AdviceGenerator
+  }
+}
 </script>
 
 <style>
